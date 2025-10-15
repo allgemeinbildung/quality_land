@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Content Editor</title>
+    <link rel="stylesheet" href="editor.css" />
+</head>
+<body>
+    <div id="editor-container">
+        <div id="editor-panel">
+            <div class="editor-header">
+                <h1>Content Editor</h1>
+                
+                <!-- This is the single, correct control block -->
+                <div class="file-controls">
+                    <label for="json-selector">Select File:</label>
+                    <select id="json-selector"></select>
+                    <button id="save-btn">Save to File</button>
+                    <button id="download-btn">Download JSON</button>
+                </div>
+
+                <!-- Add the status message element here -->
+                <div id="status-message"></div>
+
+            </div>
+            <div id="editor-form">
+                <!-- Form fields will be generated here by JavaScript -->
+            </div>
+        </div>
+
+        <div id="preview-panel">
+            <iframe id="preview-frame" src="index.html" title="Live Preview"></iframe>
+        </div>
+    </div>
+
+    <script src="editor.js"></script>
+</body>
+</html>
