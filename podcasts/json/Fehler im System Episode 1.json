@@ -1,0 +1,59 @@
+{
+  "source": "https://www.srf.ch/audio/qualityland/fehler-in-der-matrix-eine-gebrauchsanweisung-fuer-qualitylands-algorithmen",
+  "entries": [
+    {
+      "concept": "Fehler in der Matrix: Identität und Überwachung",
+      "explanation": "In dieser Folge analysieren die Hosts, wie in QualityLand **Identität, sozialer Wert und Überwachung** durch Algorithmen definiert werden. Sie legen die Grundlage dafür, wie das System den Einzelnen durch Daten kontrolliert und bewertet.",
+      "slide_content": null,
+      "timestamp": "00_00"
+    },
+    {
+      "concept": "Das Level-System: Dein Wert ist eine Zahl",
+      "explanation": "Das **Level-System** stuft jeden Bürger algorithmisch ein und bestimmt so über Privilegien und Lebenschancen. Dein sozialer Wert wird zu einer berechenbaren Grösse, die deinen Alltag direkt beeinflusst.",
+      "slide_content": "Titel: 'Level Up – Wenn der Status berechnet wird'\n- Social-Credit-Systeme oder Reputations-Scores in Online-Plattformen spiegeln diese algorithmische Hierarchie wider.\n- Ist menschlicher Wert etwas, das man messen kann oder sollte?",
+      "timestamp": "00_20"
+    },
+    {
+      "concept": "RateMe: Die totale Vermessung",
+      "explanation": "Die App **RateMe** ist das Herzstück der Überwachung und bewertet Menschen in 42 Bereichen, von IQ bis zur Familiengeschichte. Ein Kuss auf das QualityPad genügt, um dem System Zugriff auf alle persönlichen Daten zu gewähren.",
+      "slide_content": "Titel: 'Ein Kuss für deine Daten'\n- Apps und digitale Dienste sammeln permanent Nutzerdaten im Tausch gegen Bequemlichkeit, ähnlich dem Datentransfer via QualityPad.\n- Wo verläuft die Grenze zwischen personalisiertem Service und lückenloser Überwachung?",
+      "timestamp": "00_54"
+    },
+    {
+      "concept": "Algorithmische Privilegien und Strafen",
+      "explanation": "Ein hohes Level verschafft handfeste **Privilegien**, wie die Steuerung von Ampeln, während ein niedriges Level zu systematischer **Diskriminierung** führt. Der Algorithmus schafft so eine digitale Zweiklassengesellschaft.",
+      "slide_content": "Titel: 'Die digitale Zweiklassengesellschaft'\n- Algorithmische Voreingenommenheit bei Kreditvergaben oder Job-Bewerbungen kann bestehende soziale Ungleichheiten verstärken.\n- Wenn ein Algorithmus über Vorteile entscheidet – ist das fair oder eine neue Form der Diskriminierung?",
+      "timestamp": "01_42"
+    },
+    {
+      "concept": "Der Name als Schicksal",
+      "explanation": "In QualityLand wird der Nachname nicht vererbt, sondern durch den Beruf eines Elternteils bei der Zeugung bestimmt. Dieser **nominative Determinismus** zementiert das Schicksal einer Person von Geburt an.",
+      "slide_content": "Titel: 'Dein Name, dein Stempel'\n- Social-Media-Profile und Online-Identitäten prägen, wie wir von anderen wahrgenommen werden und können unser Potenzial scheinbar vorbestimmen.\n- Wie stark formt eine von aussen zugewiesene Identität unser Selbstbild und unsere Freiheit?",
+      "timestamp": "02_28"
+    },
+    {
+      "concept": "QualityPartner: Die Optimierung der Liebe",
+      "explanation": "Der Partnervermittlungsdienst **QualityPartner** weist den 'optimalen' Partner basierend auf Daten zu und entzieht dem Menschen die Entscheidungsgewalt. Beziehungen werden zu einem optimierbaren Abo-Modell mit automatischen Upgrades.",
+      "slide_content": "Titel: 'Liebe als Abo-Modell'\n- Moderne Dating-Apps nutzen komplexe Algorithmen, um passende Partner vorzuschlagen und beeinflussen so die romantische Partnerwahl.\n- Kann echte menschliche Verbindung entstehen, wenn die Partnerwahl vollständig von einem Algorithmus übernommen wird?",
+      "timestamp": "03_05"
+    },
+    {
+      "concept": "Die Infrastruktur der Kontrolle",
+      "explanation": "Allgegenwärtige Technologien wie der persönliche Assistent **Ohrwurm** und das Bezahlsystem **QualityPad** schaffen maximale Bequemlichkeit. Dieser Komfort wird jedoch mit totaler Datenüberwachung und Kontrolle bezahlt.",
+      "slide_content": "Titel: 'Bequemlichkeit gegen Freiheit'\n- Smarte Assistenten wie Alexa oder Siri integrieren sich in den Alltag, indem sie Komfort bieten, während sie riesige Mengen persönlicher Daten sammeln.\n- Welchen Preis sind wir bereit, für maximale Bequemlichkeit zu zahlen?",
+      "timestamp": "03_39"
+    },
+    {
+      "concept": "Die Quantifizierung des Menschen",
+      "explanation": "In QualityLand wird die **Identität** auf quantifizierbare Merkmale reduziert und der Lebenslauf durch Algorithmen vorhergesagt. Dieses System stellt die Konzepte von Individualität und freiem Willen fundamental in Frage.",
+      "slide_content": "Titel: 'Der vermessene Mensch'\n- 'Predictive Analytics' im Marketing oder bei Versicherungen berechnen zukünftiges Verhalten und behandeln Individuen als statistische Wahrscheinlichkeiten.\n- Was bleibt vom freien Willen, wenn unser Leben von Algorithmen vorhergesagt und gesteuert wird?",
+      "timestamp": "04:06"
+    },
+    {
+      "concept": "Vorschau",
+      "explanation": "Nächste Woche dreht sich alles um **künstliche Intelligenz und Moral**. Im Zentrum stehen die KI-Dichterin Kalliope 7.3 und das Moravec'sche Paradox, das die Grenzen und Potenziale maschinellen Bewusstseins auslotet.",
+      "slide_content": null,
+      "timestamp": "05_12"
+    }
+  ]
+}
