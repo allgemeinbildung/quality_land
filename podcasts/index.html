@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Audio Slide Player</title>
+
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet"/>
+</head>
+<body>
+  <div id="app-zoom-fallback">
+    <main id="player-container">
+            <div id="toc-container">
+        <div class="toc-header">
+            <h2>Inhalt</h2>
+            <button id="toc-toggle-btn" title="Toggle Table of Contents">‹</button>
+        </div>
+        <div id="toc-list"></div>
+      </div>
+            <div id="slide-display">
+        <div id="slide-image-container" class="slide-side"></div>
+        <div id="slide-text-container" class="slide-side">
+          <div id="slide-text-content"></div>
+        </div>
+        <audio id="audio-player" controls preload="metadata">
+          Ihr Browser unterstützt das Audio-Element nicht.
+        </audio>
+      </div>
+    </main>
+    <div id="source-container">
+        <div class="source-left">
+          <span id="source-label">Quelle:</span>
+          <span id="source-link-wrap"></span>
+        </div>
+        <div class="source-right">
+          <span id="zoom-hint" title="Wenn Text abgeschnitten ist: Browser-Zoom verkleinern.">
+            Tipp: Browser-Zoom verkleinern (⌘− / Ctrl−). Zurücksetzen: (⌘0 / Ctrl+0).
+          </span>
+        </div>
+      </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
